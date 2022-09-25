@@ -1,0 +1,15 @@
+body {
+    background-color: $back;
+    color: $text;
+    font-family: "Montserrat";
+}
+
+.image {
+    width: 500px;
+}
+
+.back {
+    width: 1000px;
+    height: 100px;
+    background-image: url("./img/honda-civic-type-r-tc.jpg");
+}
